@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/yellowmoose2/MTM6330-Week-3-02#readme",
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
   }
 }
